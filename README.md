@@ -1,8 +1,8 @@
 # WordSweeper
 This is  the client of a small word game called wordsweeper.<br>
 
-Login UI:
+Login UI:<br>
 ![Alt text](/LoginDemo.png?raw=true "Login")
 
-Game UI:
+Game UI:<br>
 ![Alt text](/GameUIDemo.png?raw=true "Game")
