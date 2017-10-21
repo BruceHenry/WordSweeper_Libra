@@ -1,11 +1,11 @@
 # WordSweeper
-## A Multiplayer Online Game
-This is the client of a word game called wordsweeper, and it is developed in Java.<br>
+This is the client of a word-spelling game called WordSweeper developed in Java.
 
 ## Features
-•	Players are able to create a new game or join an existed game.<br>
-•	Use xml to transfer data<br>
-•	Wrong inputs (invalid Game Number or username) and network disconnections are handled nicely.<br>
+- Players are able to create a new game or join an existed game.
+-	Use xml to transfer data.
+-	Wrong inputs (invalid Game Number or username) and network disconnections are handled nicely.
+- The GUI is developed using Java Swing.
 
 ## Screenshots
 Login UI:<br>
